@@ -1,5 +1,5 @@
-- 👋 Hi, I’m corinne/corrine/corine/lisa
-- 🦎I am an infj-t
+- 👋 Hi, I’m corinne/corrine/corine
+- 🦎 I am an infj-t
 - 👀 I’m interested in food, movies, tv shows, and books! (although i have short attention span...)
 - 🌱 I’m currently learning Testing Automation and SDET
 - 💞️ Will be using this account for my projects during my trainings and whatnot. 

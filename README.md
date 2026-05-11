@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Corinne!
 
-** Quality Assurance Engineer | Aspiring SDET**
+**Quality Assurance Engineer | Aspiring SDET**
 
 Passionate about ensuring software quality through meticulous testing and moving toward the world of automation. I use this space to document my learning journey, proof-of-concepts, and personal projects.
 

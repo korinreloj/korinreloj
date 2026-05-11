@@ -9,7 +9,7 @@ Passionate about ensuring software quality through meticulous testing and moving
 ### 🛠️ Technical Focus
 *   **Currently Learning:** Test Automation Frameworks & SDET best practices.
 *   **Focus Areas:** API Testing, UI Automation, and Performance Testing POCs.
-*   **Objective:** Leveraging my QA background to build robust, scalable automation suites.
+*   **Objective:** Leveraging my QA and Developer background to build robust, scalable automation suites.
 
 ### 📸 Beyond the Code
 *   **Interests:** Traveling (capturing the world through a lens), exploring diverse cuisines, and getting lost in a good film/tv series/book.
